@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Alunos>
+  <Aluno matricula="78" nome="Julia Roberta" telefone="(31) 55555-5555" etapa="3" atvAnalise="0" atvDesign="0" atvEmpreendedorismo="0" trabAnalise="6" trabDesign="0" trabEmpreendedorismo="0" p1Analise="0" p1Design="8" p1Empreendedorismo="0" p2Analise="0" p2Design="0" p2Empreendedorismo="10" />
+  <Aluno matricula="69" nome="Adriano" telefone="(31) 99999-9999" etapa="2" atvBanco="0" atvLinguagem="0" atvProgramacao="0" atvRedes="0" trabBanco="0" trabLinguagem="0" trabProgramacao="0" trabRedes="0" p1Banco="0" p1Linguagem="0" p1Programacao="0" p1Redes="0" p2Banco="0" p2Linguagem="0" p2Programacao="0" p2Redes="0" />
+  <Aluno matricula="90" nome="Wendy" telefone="(31) 88888-8888" etapa="1" atvArquitetura="0" atvLogica="0" atvSistemas="0" trabArquitetura="5" trabLogica="0" trabSistemas="0" p1Arquitetura="0" p1Logica="10" p1Sistemas="7" p2Arquitetura="0" p2Logica="10" p2Sistemas="0" />
+</Alunos>
